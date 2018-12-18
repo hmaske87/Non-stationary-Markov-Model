@@ -7,4 +7,4 @@ synthetic observation sequence is constructed having inherently many transition 
 We run the sequence through our function deep_markov.m 
 This is an inference function that captures non-stationarity in Markov model caused by switching transition model
 
-For details see our cdc paper: Likelihood Rate based Estimation of Nonstationary Markov Models
+For details see our CDC 2018 paper: Likelihood Rate based Estimation of Nonstationary Markov Models
